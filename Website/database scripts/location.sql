@@ -438,7 +438,7 @@ INSERT INTO `location` (`location_id`, `location_name`, `location_code`, `locati
 (397,'Russia', 'RN', 'Murmansk', NULL),
 (398,'Russia', 'RT', 'R. Tatarstan', NULL),
 (399,'Russia', 'RU', 'Russia', NULL),
-(100,'Russia', 'SI', 'Siberian Federal Dis', NULL),
+(400,'Russia', 'SI', 'Siberian Federal Dis', NULL),
 (401,'Russia', 'SP', 'Saint Petersburg / P', NULL),
 (402,'Russia', 'TY', 'R. Tyva', NULL),
 (403,'Russia', 'UC', 'Upper Don (Voronezh,', NULL),

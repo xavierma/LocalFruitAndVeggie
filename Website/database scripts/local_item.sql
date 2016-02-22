@@ -49,7 +49,7 @@ CREATE TABLE IF NOT EXISTS `local_item` (
 --
 
 INSERT INTO `local_item` (`local_item_id`, `location_id`, `item_id`, `january`, `february`, `march`, `aprail`, `may`, `june`, `july`, `august`, `september`, `october`, `november`, `december`) VALUES
-(1, 1, 3, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0),
+(1, 1, 3, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0);
 
 
 --
